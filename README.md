@@ -3,7 +3,6 @@
 > End-to-end machine learning classification project predicting customer churn for a telecommunications company using real-world CRM data.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
